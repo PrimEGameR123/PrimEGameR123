@@ -1,7 +1,8 @@
 ## Hi there 👋
 Addicted to Python and SQL.
 
-![Uploading XpwfUikILP.gif…]()
+![icons8-python](https://github.com/user-attachments/assets/7ddc3376-776d-4da5-88f2-eee62bbb6e12)
+
 
 
 <!--
